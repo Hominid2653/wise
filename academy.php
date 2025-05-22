@@ -788,7 +788,7 @@
         </div>
     </main>
 
-    <script src="index.js"></script>
+    <script src="main.js"></script>
     <script>
         class CourseManager {
             async loadCourses() {

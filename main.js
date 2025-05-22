@@ -40,7 +40,7 @@ navLinks.querySelectorAll('a').forEach(link => {
     });
 });
 
-// Add this to your existing index.js file
+// Add this to your existing main.js file
 document.querySelectorAll('.faq-question').forEach(button => {
     button.addEventListener('click', () => {
         const faqItem = button.parentElement;
